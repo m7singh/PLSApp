@@ -1,0 +1,8 @@
+export {CreatePropertyComponent} from './create-property.component'
+export {PropertyThumbnailComponent} from './property-thumbnail.component'
+export {PropertyListResolver} from './properties-list-resolver.service'
+export {PropertiesListComponent} from './properties-list.component'
+export {IProperty, ISession, restrictedWords, DurationPipe, PropertyService} from './shared/index'
+export {PropertyDetailsComponent, CreateSessionComponent, SessionListComponent, UpvoteComponent, VoterService} from './property-details/index'
+export {LocationValidator} from './location-validator.directive'
+export {PropertyResolver} from './property-resolver.service'
